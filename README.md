@@ -1,0 +1,2 @@
+# Book-rating-website
+It is a book rating website in java where User can view the ratings of the books which they want bu searching the Book's name. Also, user can requst admin to include a new book they have read and want to include in the website. User can also rate the Books they have read . The rating will be he average of the rating given by the user. Admin can approve the request of the user related with the book. The user only needs to sign in and enjoy giving ratings and requests.
